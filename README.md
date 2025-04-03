@@ -1,6 +1,6 @@
 # Stick Sans
 
-![little graphic to showcase font!](https://raw.githubusercontent.com/alexrayneruk/Stick-Sans/refs/heads/main/stick%20sans%20banner.png?token=GHSAT0AAAAAADBHPWLDNT65OMXPY5D7ZMQ4Z7L6NJA)
+![little graphic to showcase font!](https://github.com/alexrayneruk/Stick-Sans/blob/main/stick%20sans%20banner.png?raw=true)
 
 ## What is Stick Sans?
 
